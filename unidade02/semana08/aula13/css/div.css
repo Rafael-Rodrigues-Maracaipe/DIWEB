@@ -1,0 +1,27 @@
+.box01{
+    background-color: aqua;
+    }
+    
+.box02{
+    background-color: orange ;
+    }
+    
+ .box03{
+    background-color: green ;
+    
+    }
+    
+.box04{
+    background-color: purple ;
+    color:white;
+    
+    }
+
+div{
+    height: 60px;
+    font-weight:  900;
+    text-align: center;
+    font-size: 20px;
+    color:white;
+
+}
